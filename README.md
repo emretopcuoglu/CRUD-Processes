@@ -4,6 +4,7 @@ This project includes;
 * .Net Core Corporate Architecture
 * Repository Design Pattern
 * Entity Framework
-* Basker Processes
+* Basket Processes
+* Admin Panel
 * .Net Core Identity
 * Dependency Injection
